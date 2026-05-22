@@ -4,7 +4,6 @@ Easy Profile Template
 http://www.templatemo.com/tm-467-easy-profile
 
 */
-
 html, body {
   margin:0;border:0;padding:0;
   font-size:16px;
@@ -165,7 +164,7 @@ header hr {
 
 /* skills section */
 .skills {
-  background: #3366CC;
+  background: rgba(51, 102, 204, 0.7);
   color: #f5f5f5;
 }
 .skills .progress {
@@ -183,7 +182,7 @@ header hr {
 
 /* education section */
 .education {
-  background: #3366CC;
+  background: rgba(51, 102, 204, 0.7);
   color: #f5f5f5;
 }
 .education .education-content {
@@ -199,7 +198,7 @@ header hr {
 
 /* languages section */
 .languages {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.7);
  box-shadow: 0px 1px 5px rgba(50,50,50,0.08);
 }
 .languages ul {
@@ -220,7 +219,7 @@ header hr {
 
 /* experience section */
 .experience {
-  background: #3366CC;
+  background: rgba(51, 102, 204, 0.7);
   color: #f5f5f5;
 }
 .experience .experience-content {
